@@ -15,15 +15,12 @@ The method employs a three-phase processing pipeline:
 User Query → [Parallel Expert Evaluation] → [Cross-Validation] → [Consensus Synthesis] → Final Response
 ```
 
-## 📁 Project Structure
+## 🎬 Demo Preview
 
 ```
-multi-expert-consensus/
-├── src/
-│   └── main.py         # Core implementation
-├── requirements.txt    # Project dependencies
-├── LICENSE            # MIT License
-└── README.md         # This file
+![DeepChain Refinement movie](https://github.com/kazkozdev/multi-expert-consensus/blob/main/demo.gif)
+
+In this example, the user submits the query "How to be happy?". The system successfully processes the input through MELC - a cutting-edge approach to query processing that leverages multi-agent LLM interactions through an integrated system of critical analysis and consensus validation. The method implements distributed expert evaluation with confidence-weighted responses to achieve high-reliability outputs in complex decision-making scenarios.
 ```
 
 ## ⚡ Key Features
