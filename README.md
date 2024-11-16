@@ -17,11 +17,9 @@ User Query → [Parallel Expert Evaluation] → [Cross-Validation] → [Consensu
 
 ## 🎬 Demo Preview
 
-```
 ![DeepChain Refinement movie](https://github.com/kazkozdev/multi-expert-consensus/blob/main/demo.gif)
 
 In this example, the user submits the query "How to be happy?". The system successfully processes the input through MELC - a cutting-edge approach to query processing that leverages multi-agent LLM interactions through an integrated system of critical analysis and consensus validation. The method implements distributed expert evaluation with confidence-weighted responses to achieve high-reliability outputs in complex decision-making scenarios.
-```
 
 ## ⚡ Key Features
 
